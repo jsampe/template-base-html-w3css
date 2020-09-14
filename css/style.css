@@ -1,0 +1,37 @@
+body {
+        background-color: deeppink;    
+}
+
+h1 {
+    font-family: 'Merriweather', serif !important;
+    font-size: 2.5em;
+  }
+
+/* Style the header */
+
+.logo {
+    background-color: red;
+    text-align: center;
+    height: 15em;   
+}
+
+.logo img {
+    /*width: 250px;*/
+    height: 150px;
+    padding-top: 2em;
+}
+
+.lema {
+    /*text-align: left;*/
+    background-color: violet;
+    height: 15em;
+    padding: 5.5em; 
+    /*padding: 1em;
+    margin: 1em;*/
+}
+
+.search {
+    background-color: lawngreen;
+    height: 15em;
+    padding: 5.5em;
+}
