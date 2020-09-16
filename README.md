@@ -20,4 +20,18 @@ The colors and elements have been designed with sizes and tones to facilitate la
 
 The colors are not important here, colors with strong contrast have been chosen to facilitate the layout and easily differentiate the areas where you are working, finally, many times everything becomes white or at most two colors.
 
-All my desing start at this point and could be translate to TWIG later.
+All my design start at this point and could be translate to TWIG later.
+
+## About the body section.
+
+As complementary help for layout, a hight identifiable color and a cross image are added to body background.
+Thats help me to identify clear spaces between objects and the cross help me to align objects better.
+You can chose use or remove from the style.css file.
+
+```css
+body {
+    background-color: lightgray;
+    background-image: url(../cross.svg);
+    background-size: 10px;
+}
+```
