@@ -43,17 +43,17 @@ Screenshots of three templates.
 - template_1s.html
 
 <div align="center">
-  <img src="screenshot_1s.jpg"  width="400" height="auto">
+  <img src="screenshot_1s.JPG"  width="400" height="auto">
 </div>
 
 - template_2s.html
 
 <div align="center">
-  <img src="screenshot_2s.jpg"  width="400" height="auto">
+  <img src="screenshot_2s.JPG"  width="400" height="auto">
 </div>
 
 - template_ns.html
 
 <div align="center">
-  <img src="screenshot_ns.jpg"  width="400" height="auto">
+  <img src="screenshot_ns.JPG"  width="400" height="auto">
 </div>
