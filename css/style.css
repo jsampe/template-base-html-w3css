@@ -23,7 +23,7 @@ h1 {
 
 .lema {
     /*text-align: left;*/
-    background-color: violet;
+    background-color:#FFAA9A;
     height: 15em;
     padding: 5.5em; 
     /*padding: 1em;
@@ -31,7 +31,7 @@ h1 {
 }
 
 .search {
-    background-color: lawngreen;
+    background-color: thistle;
     height: 15em;
     padding: 5.5em;
 }
