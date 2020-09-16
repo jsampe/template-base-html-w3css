@@ -1,5 +1,7 @@
 body {
-        background-color: deeppink;    
+    background-color: lightgray;
+    background-image: url(../cross.svg);
+    background-size: 10px;
 }
 
 h1 {
